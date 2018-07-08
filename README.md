@@ -1,1 +1,1 @@
-[Mountain Village](https://open.kattis.com/problems/mountainvillage)# mountain-village
+[Mountain Village](https://open.kattis.com/problems/mountainvillage)
